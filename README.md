@@ -10,5 +10,5 @@
     <a href="https://discord.gg/AWTU67ZK5e"> <img src="https://badgen.net/discord/members/rTT52gJC3J" alt="Sapphire Developers (OLD)"/> </a>
     <a href="[https://discord.gg/TKz7BMwEap](https://discord.gg/AWTU67ZK5e)"> <img src="https://badgen.net/discord/members/TKz7BMwEap" alt="Sapphire Developers"/> </a>
 
-[![My Discord](https://badge.ducko.dev/api/?id=711712752246325343)](https://discord.com/users/711712752246325343)
+[![My Discord](https://badge.ducko.dev/api/?id=539873160183414785)](https://discord.com/users/539873160183414785)
 </div>
