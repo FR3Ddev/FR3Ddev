@@ -1,7 +1,7 @@
 <h1 align="center">Hi, FR3Ddev here!</h1>
 
 <div align="center">
-       <a href="ko-fi.com/fr3d__"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/> </a>
+       <a href="https://ko-fi.com/fr3d__"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/> </a>
 </div>
 
 <div align="center">
