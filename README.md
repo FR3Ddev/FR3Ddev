@@ -1,7 +1,7 @@
 <h1 align="center">Hi, FR3Ddev here!</h1>
 
 <div align="center">
-    Have any quistions ask me. Join  https://discord.gg/AWTU67ZK5e
+       <a href="ko-fi.com/fr3d__"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"/> </a>
 </div>
 
 <div align="center">
