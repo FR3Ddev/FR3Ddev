@@ -8,6 +8,5 @@
     <a href="https://github.com/FR3Ddev"> <img src="https://komarev.com/ghpvc/?username=FR3Ddev&style=flat" alt="Profile Views"/> </a>
        
 <div align="center">
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<539873160183414785>)
 </div>
 
