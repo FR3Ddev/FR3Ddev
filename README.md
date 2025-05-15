@@ -1,103 +1,72 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+# Welcome to **FR3Ddev / FR3D's** GitHub! 👋
 
-### <div align="center">I'm FR3D, a Website & Discord Bot Developer 👨‍💻 since 2019 🚀</div>  
-  
+> 🌐 *"Crafting innovative websites and Discord bots with precision and creativity."*  
 
-- 🔭 I’m currently working on a discord bot for the game called PS99  
-  
+---
 
-- ⚡ If you have any questions contact me on discord - @fr3d_._  
-  
+## 🛠 About Me
 
-<br/>  
+Hey there! I'm **FR3D**, a passionate developer specializing in:  
+- 🖥 **Website Development**  
+  - HTML, CSS (TailwindCSS, CSS Frameworks), JavaScript, Node.js  
+- 🤖 **Discord Bot Development**  
+  - Python (asyncio, discord.py)  
+  - JavaScript (discord.js, Node.js)  
+- 🧩 Building seamless integrations and user-friendly interfaces.  
 
+From creating dynamic websites to deploying powerful Discord bots, I love pushing boundaries and delivering exceptional projects.
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 🚀 Skills and Technologies
 
+### 💻 Languages and Frameworks  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
+### 🌐 Development Tools  
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 
-</td><td valign="top" width="33%">
+### 🛠 Platforms and Hosting  
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat-square&logo=github&logoColor=white)  
+![Silly Development](https://img.shields.io/badge/Silly%20Development-Custom-brightgreen?style=flat-square)  
 
+---
 
+## 📌 Featured Projects
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
+### 🌟 **[ClanBattle Website](https://fr3d-development1.github.io/Clanbattle/)**  
+A dynamic and interactive platform for managing clan battles, fetching data via APIs, and presenting real-time leaderboards.  
+- Utilized **TailwindCSS** for responsive design.  
+- Integrated **Big Games API** for accurate leaderboard data.  
 
-</td><td valign="top" width="33%">
+### 🤖 **Discord Bots**  
+- Real-time tracking and notifications.  
+- Fully integrated with MongoDB and API services for advanced functionality.  
 
+---
 
+## 🎯 Current Goals
 
-</td></tr></table>  
+- Enhance real-time API integrations for projects.  
+- Explore advanced frameworks like **React** and **Next.js**.  
+- Collaborate on exciting open-source projects!  
 
-<br/>  
+---
 
+## 🤝 Connect with Me
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/FR3Ddev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/FR3D__08" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+🌟 Got an idea or a project? Let’s collaborate!  
 
-<br/>  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/539873160183414785)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/FR3Ddev)  
 
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FR3Ddev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=FR3Ddev&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://ko-fi.com/fr3d__" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+🌌 **"Turning ideas into reality, one line of code at a time."**  
